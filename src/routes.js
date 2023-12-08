@@ -7,7 +7,7 @@ router.get('/',(req,res) =>{
     res.json({
         status: 200,
         message: '﷽',
-        info: 'To get quotes from this API please check "/quote"'
+        info: 'To get quotes from this API please check https://quote-km1t.onrender.com/quote'
     })
 })
 
